@@ -12,6 +12,7 @@
 [![Linkedin: Mahmoud Iraqi](https://img.shields.io/badge/-MahmoudIraqi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-iraqi-99b994249/)](https://www.linkedin.com/in/mahmoud-iraqi-99b994249/)
 , [![GitHub: Mahmoud-Iraqi](https://img.shields.io/github/followers/Mahmoud-Iraqi?label=Mahmoud-Iraqi&style=social)](https://github.com/Mahmoud-Iraqi)
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahmoudalkady2004@gmail.com)](mailto:mahmoudalkady2004@gmail.com)
+, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
 
@@ -19,8 +20,12 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white")
+  ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white")
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
+  ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -31,11 +36,23 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 
   
-### Interesting stats
+### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=30 height=40> Overall Stats 
 
-![Mahmoud Iraqi's stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Iraqi&show_icons=true)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Mahmoud-Iraqi/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Iraqi&hide_border=true&show_icons=true" alt="Mahmoud's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mahmoud-Iraqi/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Iraqi&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+</table>
 
-Thanks for stopping by! 😁
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/Moataz.svg">
